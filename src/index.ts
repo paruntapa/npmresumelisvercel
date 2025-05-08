@@ -29,7 +29,7 @@ const s3 = new S3Client({
 const app = express();
 
 const corsOptions = {
-  origin: ["https://jobrec.telzac.site"], // Add allowed frontend domains
+  origin: ["https://deploy-resumelis-frontend.vercel.app"], // Add allowed frontend domains
   credentials: true,
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"],

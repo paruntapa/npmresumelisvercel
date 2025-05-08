@@ -1,0 +1,1 @@
+{"root":["./src/fetch-jobs.ts","./src/index.ts","./src/middleware.ts","./src/types.d.ts","./src/Middleware/Auth.ts","./src/controllers/AuthController.ts","./src/llm/gemini.ts","./src/models/JobListing .ts","./src/models/User.ts","./src/models/db.ts","./src/routes/AuthRouter.ts","./src/routes/proRoute.ts","./src/types/pdf.d.ts"],"version":"5.8.3"}
